@@ -1,0 +1,15 @@
+{
+	"id": "2cadac6a-f61c-43b3-b410-83ab03a58a52",
+	"name": "Jenkins",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://httpbin.org",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-08-28T05:21:11.357Z",
+	"_postman_exported_using": "Postman/11.8.1"
+}
